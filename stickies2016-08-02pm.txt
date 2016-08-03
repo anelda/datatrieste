@@ -1,0 +1,159 @@
+    It was good
+
+    The unix shell 
+
+    Well illustrated tutorial with interesting examples
+
+    Good assistance
+
+    Interesting & challenging
+
+    The unix session was very informative especially with the advanced commands
+
+    Clear speech, easy to follow
+
+    Very good interaction from the participants. Humor is also great!
+
+    Quite interactive. It was interesting.
+
+    Quite interactive. Easy to follow. Well managed with help of tutors & learning
+
+    Good orator and lecturer
+
+    Interesting material, thanks :-)
+
+    Expressive lecturer
+	    Introducing git/hub was creating confusion for people who have not worked with it before. It interruped the flow of the unix shell session.
+
+    We need black sticky notes and white pens to write the bad stuff
+
+    Spending too much time for easy task (both doing and explaining, one of them can be shorter)
+
+    Timing
+
+    Too much information in one day for a beginner--more practice needed
+
+    Could be a bit faster
+
+    Time management
+
+    Fast talk
+
+    Quite intense session for persons without prior experience of Linux
+    Very informative . Learned alot. Though felt a bit fast to follow examples.
+
+    The session covered by Stefano Cozzini was perfect!!!
+
+    The program is okay
+
+    Perfect morning session
+
+    Git looks very useful, never used anything like that
+
+    Thanks alot
+
+    Very good material. Good presentation.
+
+    I liked it
+
+    Good instruction
+
+    Excellent for a beginner. It is a perfect speed
+
+    Got first insights ito github - great resource to explore
+
+    New stuff well presented and in interactive mode. Well done.
+
+    Version control with Git class very interesting
+
+    the helpers
+
+    Nice presentation, very interactive
+
+    Main concepts very well described
+
+    Excellent lecture of GitHub introduction (some of his jokes)
+
+    Nicola's humor is great for making git/hub fun. For the first time I understand git/hub!
+
+    What I liked in morning session: interactive mode of learning and lots of assistance from tutors
+
+    Topic interesting, materials are good but time :-(
+
+    The lecture material is well illustrated and easy to follow
+	    As a teacher, I think the pace is too fast for beginners and too slow for experts. I suggest a preliminary course for beginners on basic concepts followed by a course on application.
+
+    More time needed for each module, please
+
+    Due to the scheduled programme, we can only have an overview of the process and commands meaning
+
+    Time was not well managed as some sessions were quickly rushed through, making it difficult for new beginners
+
+    Too fast explanation, difficult to follow for absolute beginner
+
+    I'm a beginner; I think I need to attend all classes, go home to study for a year (!), then come back next year to follow-up! Ther are helpgers but by the time they explain 1 point, 10 points ahead are done
+
+    With a computer science background, the speed was fine with me. But the person I was partnered with had very difficulties following and had to ask me each command
+
+    Git was useful but a bit fast
+
+    Helpers for this session were sitting and participants were waling around to locate them and ask for help. Suggestion: helpers for each session should be standing to be available to help participants.
+
+    Etherpad is sometimes hard to read-> dark text on dark background
+
+    I would like to jbiw nire about Github but the instructions were too fast. The R lesson is intersting and the instructor did a good job of it. But please be a little bit slower cause of people who are beginners
+
+    You are a bit too fast. Please try to carry everyone along
+
+    Maybe a little too fast sometimes
+
+    Would be useful to have more time for exercises
+
+    You teach a little speedier than usual
+
+    Not so clear where we are getting to
+
+    Some lessons were too fast to capture the line between the practicality of the stuff
+
+    A little too slow
+
+    Today - nothing! (x 2)
+
+    I would have liked it if we could have discussed loops and running scripts in shell. Suggestion: shorten the first part of the lesson with basic commands and focus on the more powerful stuff of the shell.
+
+    With limited/no background of git, it was difficult to follow "what is what"
+
+     & "why"
+
+    Learned new push-pull methods in git
+	    The R session was fantastic: great session
+
+    Pace of the R session was great
+
+    R lesson was ok
+
+    Good lecture :-)
+
+    I like it very much
+
+    I guess it is consistent for many, but being reminded that count indices start at "1" (for R, etc.) is especially useful for those coming fro languages that start at zero
+
+    Very clear session
+
+    The R session is interesting. The instructor did a good job.
+
+    Pace of the session was perfect!
+
+    Preparation with links in the ethernet is great--easy to follow
+
+    Ineresting topic for analysing data statistic
+
+    Good balance between presentation and hands on
+
+    Informative with nice examples
+
+    No complaints on R up to now
+
+
+
+
